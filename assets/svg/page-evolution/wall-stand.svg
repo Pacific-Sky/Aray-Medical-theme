@@ -1,0 +1,26 @@
+<svg id="wall-stand" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xhtml="http://www.w3.org/1999/xhtml" viewBox="0 0 204 432">
+  <defs>
+    <style>
+      #wall-stand .cls-1 {
+        opacity: 0.78;
+      }
+      #apparatus-wrapper {
+        clip-path: url(#clip-path);
+      }
+    </style>
+    <clipPath id="clip-path">
+      <polygon points="196 377.5 129.84 377.5 129.84 390.06 127.06 390.06 126.63 399.5 75.81 399.5 75.88 389.44 72.72 389.81 72.72 377.5 13.5 377.5 13.5 9.5 196 9.5 196 377.5"/>
+    </clipPath>
+  </defs>
+  <title>Evolution_wall_stand</title>
+  <image width="716" height="1776" transform="translate(16.08 0.96) scale(0.24)" xlink:href="ROOT_URL/wp-content/themes/aray_med/assets/img/page-evolution/stand-base.png"/>
+  <image width="240" height="1098" transform="translate(72.24 127.44) scale(0.24)" xlink:href="ROOT_URL/wp-content/themes/aray_med/assets/img/page-evolution/stand-closed.png"/>
+  <g id="apparatus-wrapper">
+    <g id="apparatus">
+      <image width="238" height="1414" transform="translate(72.72 120.72) scale(0.24)" xlink:href="ROOT_URL/wp-content/themes/aray_med/assets/img/page-evolution/stand-open.png"/>
+      <image width="264" height="208" transform="translate(71.52 171.6) scale(0.24)" xlink:href="ROOT_URL/wp-content/themes/aray_med/assets/img/page-evolution/stand-shadow.png"/>
+      <image class="cls-1" width="131" height="160" transform="translate(104.16 44.88) scale(0.24)" xlink:href="ROOT_URL/wp-content/themes/aray_med/assets/img/page-evolution/stand-shadow-accent.png"/>
+      <image width="509" height="571" transform="translate(39.6 47.76) scale(0.24)" xlink:href="ROOT_URL/wp-content/themes/aray_med/assets/img/page-evolution/stand-apparatus.png"/>
+    </g>
+  </g>
+</svg>

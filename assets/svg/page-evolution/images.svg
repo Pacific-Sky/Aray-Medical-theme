@@ -1,0 +1,225 @@
+<svg id="images" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 252 252">
+  <defs>
+    <style>
+      #images .cls-1,
+      #images .cls-2,
+      #images .cls-3,
+      #images .cls-4,
+      #images .cls-5,
+      #images .cls-7,
+      #images .cls-8,
+      #images .cls-9 {
+        fill: none;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+      }
+
+      #images .cls-1,
+      #images .cls-5 {
+        stroke-width: 5px;
+      }
+
+      #images .cls-2 {
+        stroke-width: 2.29px;
+      }
+
+      #images .cls-3 {
+        stroke-width: 2.15px;
+      }
+
+      #images .cls-4 {
+        stroke-width: 2.66px;
+      }
+
+      #images .cls-5 {
+        stroke-dasharray: 1 9;
+      }
+
+      #images .cls-6 {
+        fill: #fff;
+      }
+
+      #images .cls-7 {
+        stroke-width: 1.5px;
+      }
+
+      #images .cls-8 {
+        stroke-width: 1.29px;
+      }
+
+      #images .cls-9 {
+        stroke-width: 1.14px;
+      }
+
+    </style>
+    <clipPath id="seconds">
+      <path d="M141,131l23.47-8.74A26,26,0,0,0,141,105.88Z"/>
+    </clipPath>
+  </defs>
+  <g transform="translate(-12 0)">
+    <rect class="cls-1 frame" x="54.04" y="64.92" width="143.91" height="122.16" rx="7.35" ry="7.35">
+      <animateTransform
+        attributeType="XML"
+        attributeName="transform"
+        type="translate"
+        from="0 0"
+        to="-200 0"
+        dur="10ms"
+        begin="indefinite"
+        fill="freeze"
+        class="imagesFrameReset"
+      />
+      <animateTransform
+        attributeType="XML"
+        attributeName="transform"
+        type="translate"
+        from="-200 0"
+        to="0 0"
+        dur="500ms"
+        begin="indefinite"
+        fill="freeze"
+        class="imagesFrameSlideIn"
+      />
+      <animateTransform
+        attributeType="XML"
+        attributeName="transform"
+        type="translate"
+        from="0 0"
+        to="300 0"
+        dur="500ms"
+        begin="indefinite"
+        fill="freeze"
+        class="imagesFrameSlideOut"
+      />
+    </rect>
+    <rect class="cls-2 frame" x="68.23" y="64.92" width="129.73" height="122.16" rx="6.98" ry="6.98">
+      <animateTransform
+        attributeType="XML"
+        attributeName="transform"
+        type="translate"
+        from="0 0"
+        to="-200 0"
+        dur="10ms"
+        begin="indefinite"
+        fill="freeze"
+        class="imagesFrameReset"
+      />
+      <animateTransform
+        attributeType="XML"
+        attributeName="transform"
+        type="translate"
+        from="-200 0"
+        to="0 0"
+        dur="500ms"
+        begin="indefinite"
+        fill="freeze"
+        class="imagesFrameSlideIn"
+      />
+      <animateTransform
+        attributeType="XML"
+        attributeName="transform"
+        type="translate"
+        from="0 0"
+        to="300 0"
+        dur="500ms"
+        begin="indefinite"
+        fill="freeze"
+        class="imagesFrameSlideOut"
+      />
+    </rect>
+    <rect class="cls-3 frame" x="83.94" y="64.92" width="114.01" height="122.16" rx="6.54" ry="6.54">
+      <animateTransform
+        attributeType="XML"
+        attributeName="transform"
+        type="translate"
+        from="0 0"
+        to="-200 0"
+        dur="10ms"
+        begin="indefinite"
+        fill="freeze"
+        class="imagesFrameReset"
+      />
+      <animateTransform
+        attributeType="XML"
+        attributeName="transform"
+        type="translate"
+        from="-200 0"
+        to="0 0"
+        dur="500ms"
+        begin="indefinite"
+        fill="freeze"
+        class="imagesFrameSlideIn"
+      />
+      <animateTransform
+        attributeType="XML"
+        attributeName="transform"
+        type="translate"
+        from="0 0"
+        to="300 0"
+        dur="500ms"
+        begin="indefinite"
+        fill="freeze"
+        class="imagesFrameSlideOut"
+      />
+    </rect>
+    <circle class="cls-4" cx="140.95" cy="131.22" r="32.24"/>
+    <circle class="cls-5" cx="140.95" cy="131.22" r="29.83"/>
+    <g>
+      <animateTransform
+        id="imagesClockButtonOne"
+        attributeType="XML"
+        attributeName="transform"
+        type="translate"
+        values="0 0; 0 5; 0 0"
+        keyTimes="0; 0.25; 1"
+        dur="250ms"
+        begin="indefinite"
+        fill="freeze"
+      />
+      <rect class="cls-6" x="139.11" y="92.03" width="3.71" height="5.64"/>
+      <rect class="cls-7" x="136.96" y="88.82" width="7.98" height="2.68"/>
+    </g>
+    <circle class="cls-8" cx="141.05" cy="90.16" r="8.33"/>
+    <g>
+      <animateTransform
+        id="imagesClockButtonTwo"
+        attributeType="XML"
+        attributeName="transform"
+        type="translate"
+        values="0 0; -2 2; 0 0"
+        keyTimes="0; 0.25; 1"
+        dur="250ms"
+        begin="indefinite"
+        fill="freeze"
+      />
+      <rect class="cls-9" x="164.21" y="102.76" width="6.05" height="2.03" id="lap-button"/>
+      <polygon class="cls-6" points="162.75 106.12 164.74 108.11 167.24 105.78 165.25 103.79 162.75 106.12"/>
+    </g>
+    <g style="clip-path: url(#seconds)">
+      <rect id="second-marker" stroke="white" class="cls-10 svg-fill-orange" style="transform-origin: 140px 130px;" width="140" height="130" transform="rotate(45)" x="1">
+        <animateTransform
+          id="imagesClockSeconds"
+          attributeType="XML"
+          attributeName="transform"
+          type="rotate"
+          from="0"
+          to="45"
+          dur="1s"
+          begin="indefinite"
+          fill="freeze"
+        />
+        <animateTransform
+          id="imagesClockSecondsReset"
+          attributeType="XML"
+          attributeName="transform"
+          type="rotate"
+          from="45"
+          to="0"
+          dur="100ms"
+          begin="indefinite"
+          fill="freeze"
+        />
+      </rect>
+    </g>
+  </g>
+</svg>

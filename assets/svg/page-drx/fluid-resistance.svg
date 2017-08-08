@@ -1,0 +1,34 @@
+<svg id="fluid-resistance" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 170.96 170.96">
+  <defs>
+    <style>
+      #fluid-resistance .cls-1,
+      #fluid-resistance .cls-2,
+      #fluid-resistance .cls-3,
+      #fluid-resistance .cls-4,
+      #fluid-resistance .cls-5,
+      #fluid-resistance .cls-6 {
+        fill: none;
+        stroke-miterlimit: 10;
+        stroke-width: 2.2px;
+        stroke: white;
+      }
+
+
+      #fluid-resistance .cls-5 {
+        stroke: #ef7622;
+        stroke-linecap: round;
+      }
+    </style>
+  </defs>
+  <title>fluid-resistance</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_1-2" data-name="Layer 1">
+      <circle class="cls-1" cx="85.48" cy="85.48" r="84.38"/>
+      <path class="cls-2" d="M50.82,96.35a16.64,16.64,0,0,0,33.28,0c0-9.19-16.64-29.26-16.64-29.26S50.82,87.16,50.82,96.35Z"/>
+      <path class="cls-3" d="M86,67.4a11.9,11.9,0,0,0,23.79,0c0-6.57-11.9-20.92-11.9-20.92S86,60.82,86,67.4Z"/>
+      <path class="cls-4" d="M65.64,47.23a8.44,8.44,0,0,0,16.88,0c0-4.66-8.44-14.84-8.44-14.84S65.64,42.57,65.64,47.23Z"/>
+      <path class="cls-5" d="M38.33,126.3"/>
+      <polygon class="cls-6" points="46.49 129.77 54.7 136.43 55.19 136.49 111.51 136.49 116.27 136.43 124.47 129.77 46.49 129.77"/>
+    </g>
+  </g>
+</svg>

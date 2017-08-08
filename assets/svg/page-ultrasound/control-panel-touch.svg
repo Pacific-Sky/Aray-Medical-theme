@@ -1,0 +1,40 @@
+<svg id="control-panel-touch" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 612.09 127.32">
+  <defs>
+    <style>
+      #control-panel-touch .cls-1,
+      #control-panel-touch .cls-8  {
+        fill: none;
+      }
+      #control-panel-touch .cls-2 {
+        font-size: 29.78px;
+        font-family: SofiaProLight,Sofia Pro,sofia-pro;
+        font-weight: 100;
+      }
+      #control-panel-touch .cls-3 {
+        font-size: 61.95px;
+        font-family: SofiaProBlack,Sofia Pro,sofia-pro
+      }
+      #control-panel-touch .cls-4 {
+        font-size: 73.9px;
+      }
+      #control-panel-touch .cls-5 {
+        fill: #fff;
+      }
+      #control-panel-touch .cls-7 {
+        clip-path: url(#cp-touch-clip-path);
+      }
+      #control-panel-touch .cls-8 {
+        stroke-miterlimit: 10;
+        stroke-width: 2.71px
+      }
+    </style>
+    <clipPath id="cp-touch-clip-path">
+      <path class="cls-1" d="M65.57 30.31l46.62-27.67L114 69.72 65.57 46.56zm-17.14 0L1.8 2.64 0 69.72l48.43-23.16z"></path>
+    </clipPath>
+  </defs>
+  <path class="cls-5" d="M63.49 56.62c.15-.23.3-.46.43-.71a6.12 6.12 0 0 1 6.9-3.06 6.2 6.2 0 0 1 4.63 6v3a1.56 1.56 0 0 0 .3 1c.16-.26.32-.52.47-.79a6.07 6.07 0 0 1 6.91-3 6 6 0 0 1 4.54 5.9v3.9l.29.06c.14-.23.29-.45.42-.69a6.1 6.1 0 0 1 11.5 2.9c0 5.66.12 11.33-.26 17a70 70 0 0 1-4 17.35 3.89 3.89 0 0 1-4 2.8H52.81A5.06 5.06 0 0 1 48.7 106L31.14 82.87c-.38-.5-.78-1-1.17-1.47a6.12 6.12 0 0 1 8.68-8.58c2.32 1.92 4.68 3.79 7 5.67a3.16 3.16 0 0 0 3.6.54A3.09 3.09 0 0 0 51 75.91v-40.2c0-3.27 1.5-5.6 4.19-6.51a6.1 6.1 0 0 1 7.98 5.8v21.5z" transform="translate(-19.06)"></path>
+  <path class="cls-6 svg-fill-orange" d="M73.77 48.27l-5.49-.85a7 7 0 0 1 .48-.82c3.58-4.7 4.44-9.86 2.21-15.32s-6.48-8.58-12.32-9.38c-9.06-1.24-17.16 6.2-17 15.52A15.16 15.16 0 0 0 45.37 47a2.3 2.3 0 0 1 .49 1.31c.05 1.84 0 3.69 0 5.57-4.55-2.4-9.73-9.35-9.31-18a20.34 20.34 0 0 1 37.2-10.23 20.08 20.08 0 0 1 .02 22.62z" transform="translate(-19.06)"></path>
+  <path class="cls-7 cls-8 svg-stroke-orange" d="M83.61 37.8a26.75 26.75 0 1 1-26.74-26.74A26.75 26.75 0 0 1 83.61 37.8zM56.87 1.35A36.45 36.45 0 1 0 93.32 37.8 36.45 36.45 0 0 0 56.87 1.35z" transform="translate(-19.06)"></path>
+  <text class="cls-2 svg-fill-orange" transform="translate(111.57 39.22)">EXPERIENCE THE COMBINATION OF</text>
+  <text class="cls-3 svg-fill-orange" transform="translate(111.31 105)">TOUCH <tspan class="cls-4" x="228.2" y="0">+</tspan><tspan x="265.37" y="0"> SOUND</tspan></text>
+</svg>

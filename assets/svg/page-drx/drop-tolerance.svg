@@ -1,0 +1,33 @@
+<svg id="drop-tolerance" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 170.96 170.96">
+  <defs>
+    <style>
+      #drop-tolerance .cls-1,
+      #drop-tolerance .cls-2,
+      #drop-tolerance .cls-3,
+      #drop-tolerance .cls-4,
+      #drop-tolerance .cls-5,
+      #drop-tolerance .cls-6,
+      #drop-tolerance .cls-7 {
+        fill: none;
+        stroke-miterlimit: 10;
+        stroke-width: 2.2px;
+        stroke: white;
+      }
+
+    </style>
+  </defs>
+  <title>drop-tolerance</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_1-2" data-name="Layer 1">
+      <circle class="cls-1" cx="85.48" cy="85.48" r="84.38"/>
+      <polygon class="cls-2" points="82.02 48.18 97.42 48.18 86.6 76.36 105.73 76.36 82.46 130.38 80.17 130.38 86.6 89.28 64.93 89.28 82.02 48.18"/>
+      <g>
+        <path class="cls-3" d="M45.33,103.64a43.32,43.32,0,0,1,.54-33.79"/>
+        <path class="cls-4" d="M125.1,69.84a43.32,43.32,0,0,1,.54,33.79"/>
+        <path class="cls-5" d="M55.18,73.52a33.34,33.34,0,0,0-.45,26.7"/>
+        <path class="cls-6" d="M85.48,85.48"/>
+        <path class="cls-7" d="M116.22,100.22a33.34,33.34,0,0,0-.45-26.7"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,16 @@
+<svg id="icon--search" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <defs>
+    <style>
+      #icon--search circle,
+			#icon--search line {
+        fill: none;
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-miterlimit: 10;
+        stroke-width: 10px;
+      }
+    </style>
+  </defs>
+  <circle r="31" cx="40" cy="40" />
+  <line x1="61.5" y1="63.5" x2="90.5" y2="92.5"/>
+</svg>

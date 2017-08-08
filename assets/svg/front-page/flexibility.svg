@@ -1,0 +1,42 @@
+<svg id="icon__flexibility" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 195.87 195.87">
+  <defs>
+    <style>
+      #icon__flexibility .cls-1 {
+        fill: #2a275b;
+      }
+
+      #icon__flexibility .cls-1,
+      #icon__flexibility .cls-2 {
+        stroke: #fff;
+      }
+
+      #icon__flexibility .cls-1,
+      #icon__flexibility .cls-2,
+      #icon__flexibility .cls-3,
+      #icon__flexibility .cls-4 {
+        stroke-linecap: round;
+        stroke-miterlimit: 10;
+        stroke-width: 3px;
+      }
+
+      #icon__flexibility .cls-2,
+      #icon__flexibility .cls-3,
+      #icon__flexibility .cls-4 {
+        fill: none;
+      }
+
+      #icon__flexibility .cls-3 {
+        stroke: #ef7622;
+      }
+
+      #icon__flexibility .cls-4 {
+        stroke: #ee7e22;
+      }
+    </style>
+  </defs>
+  <circle class="cls-1" cx="97.94" cy="97.94" r="96.44"/>
+  <path class="cls-2" d="M83.23,89.8,122.7,50.33a53.67,53.67,0,0,0-78.41,47.6c0,8.93,1.8,17.56,6,24.76a73.68,73.68,0,0,0,8.38,11.41"/>
+  <path class="cls-3" d="M112.27,106.81,73.41,145.66a53.67,53.67,0,0,0,72.25-72.25,53.12,53.12,0,0,0-9.51-13.6"/>
+  <polyline class="cls-4" points="114.3 125.04 114.3 104.94 94.21 104.94"/>
+  <polyline class="cls-2" points="83.49 69.96 83.49 90.06 103.58 90.06"/>
+</svg>

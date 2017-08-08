@@ -1,0 +1,15 @@
+<svg id="knee" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 90.7 94.52">
+  <defs>
+    <style>
+      #knee path {
+        fill: none;
+        stroke-linecap: round;
+        stroke-miterlimit: 10;
+        stroke-width: 2.5px;
+      }
+    </style>
+  </defs>
+  <title>knee</title>
+  <path d="M80.11,93.27c4.54-.74,7.82-3.47,9.17-9.26C75.9,76.47,73.94,63.26,62.56,55.73,49.56,47.12,28.2,50,28.2,50c32.48-2,55.75-27.8,57-28.46,0,0,1.56-18.93-14.34-20.18C41.3-1-2.13,34.21,1.46,53.13,4.58,69.58,40.32,75.75,53.62,79.68c9,2.67,18.4,8.08,26.48,13.58"/>
+  <path d="M16.94,61.48a10.27,10.27,0,0,1-10.08.4"/>
+</svg>

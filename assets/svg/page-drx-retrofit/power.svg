@@ -1,0 +1,55 @@
+<svg id="power" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 162.42 162.42">
+  <defs>
+    <style>
+      #power .cls-1,
+      #power .cls-2,
+      #power .cls-3,
+      #power .cls-5 {
+        fill: none;
+      }
+
+      #power .cls-2 {
+        stroke: #f3f3f3;
+        stroke-width: 2.29px;
+      }
+
+      #power .cls-2,
+      #power .cls-3,
+      #power .cls-5 {
+        stroke-miterlimit: 10;
+      }
+
+      #power .cls-3 {
+        stroke: #fff;
+      }
+
+      #power .cls-3,
+      #power .cls-5 {
+        stroke-width: 2.2px;
+      }
+
+      #power .cls-4 {
+        clip-path: url(#power-clip-path);
+      }
+
+      #power .cls-5 {
+        stroke: #ef7622;
+      }
+    </style>
+    <clipPath id="power-clip-path">
+      <polygon class="cls-1" points="80.25 28.3 80.25 31.11 66.86 31.11 66.86 28.3 44.92 28.3 44.92 91.04 63.48 91.04 63.79 57.07 83.41 57.07 83.96 91.04 102.2 91.04 102.2 28.3 80.25 28.3"/>
+    </clipPath>
+  </defs>
+  <title>power</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Guides">
+      <circle class="cls-2" cx="81.21" cy="81.21" r="80.06"/>
+      <g>
+        <path class="cls-3" d="M57.53,108.26l4.86,17.83S67.53,141,80.77,141H92.39S111,137.45,111,117.45V94.75s1.08-7-5.4-7c-5.94,0-5.35,6.76-5.35,6.76s.48-6.76-5.32-6.76c-5.4,0-5.43,6.44-5.43,6.44s-.59-6.44-5.21-6.44c-6,0-5.39,6.48-5.39,6.48V64.08s.77-6.48-5.72-6.48a5.38,5.38,0,0,0-5.4,5.67V98.81S61.58,91.42,57.53,98C56.19,100.18,56.45,104.3,57.53,108.26Z"/>
+        <g class="cls-4">
+          <path class="cls-5" d="M99.46,62.34A25.75,25.75,0,1,1,73.71,36.59,25.75,25.75,0,0,1,99.46,62.34ZM73.71,42.62A19.72,19.72,0,1,0,93.44,62.34,19.72,19.72,0,0,0,73.71,42.62Zm0,6.38A13.34,13.34,0,1,0,87.06,62.34,13.34,13.34,0,0,0,73.71,49Z"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

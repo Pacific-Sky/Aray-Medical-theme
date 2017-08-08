@@ -1,0 +1,78 @@
+<svg id="control-panel-config" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 127.51 127.51">
+  <defs>
+    <style>
+      #control-panel-config .cls-1,
+      #control-panel-config .cls-2,
+      #control-panel-config .cls-3,
+      #control-panel-config .cls-4 {
+        fill: none;
+        stroke-miterlimit: 10;
+      }
+
+      #control-panel-config .cls-1 {
+        stroke: #f4f4f4;
+        stroke-width: 2.41px;
+      }
+
+      #control-panel-config .cls-2,
+      #control-panel-config .cls-3 {
+        stroke: #fff;
+      }
+
+      #control-panel-config .cls-2,
+      #control-panel-config .cls-3,
+      #control-panel-config .cls-4 {
+        stroke-linecap: round;
+      }
+
+      #control-panel-config .cls-2 {
+        stroke-width: 3.62px;
+      }
+
+      #control-panel-config .cls-3,
+      #control-panel-config .cls-4 {
+        stroke-width: 2px;
+      }
+
+      #control-panel-config .cls-5 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <title>control-panel-config</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_1-2" data-name="Layer 1">
+      <g>
+        <g>
+          <circle class="cls-1" cx="63.76" cy="63.76" r="62.55"/>
+          <g>
+            <path class="cls-2" d="M37.65,87.83"/>
+            <path class="cls-2" d="M89.19,38.38"/>
+            <rect class="cls-3" x="27.37" y="38.24" width="72.77" height="51.02" rx="6.27" ry="6.27"/>
+            <rect class="cls-4 svg-stroke-orange" x="36.37" y="46.69" width="18.97" height="5.66"/>
+            <rect class="cls-4 svg-stroke-orange" x="36.37" y="57" width="18.97" height="5.66"/>
+            <rect class="cls-4 svg-stroke-orange" x="36.37" y="67.32" width="18.97" height="5.66"/>
+            <circle class="cls-4 svg-stroke-orange" cx="84.02" cy="74.47" r="8.33"/>
+            <rect class="cls-3" x="75.97" y="46.82" width="16.31" height="5.32" rx="2.66" ry="2.66"/>
+            <rect class="cls-3" x="75.97" y="55.31" width="16.31" height="5.32" rx="2.66" ry="2.66"/>
+            <rect class="cls-5" x="67.69" y="45.99" width="2.14" height="14.78"/>
+            <rect class="cls-5" x="63.12" y="45.99" width="2.14" height="14.78"/>
+            <rect class="cls-6 svg-fill-orange" x="63.02" y="64.65" width="6.9" height="1.87"/>
+            <rect class="cls-6 svg-fill-orange" x="63.02" y="69.59" width="6.9" height="1.87"/>
+            <rect class="cls-5" x="35.6" y="79.26" width="6.9" height="2.28"/>
+            <rect class="cls-5" x="45.91" y="79.26" width="6.9" height="2.28"/>
+            <rect class="cls-5" x="56.21" y="79.26" width="6.9" height="2.28"/>
+          </g>
+        </g>
+        <g>
+          <path class="cls-4 svg-stroke-orange" d="M81.22,27.18C77.72,22.35,63.89,13.85,51,28"/>
+          <polyline class="cls-4 svg-stroke-orange" points="58.22 29.01 50.4 29.01 50.4 21.18"/>
+        </g>
+        <g>
+          <path class="cls-4 svg-stroke-orange" d="M50.4,100.87c3.5,4.83,17.33,13.33,30.21-.83"/>
+          <polyline class="cls-4 svg-stroke-orange" points="73.4 99.04 81.22 99.04 81.22 106.86"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

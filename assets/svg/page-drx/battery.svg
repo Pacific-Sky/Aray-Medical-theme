@@ -1,0 +1,46 @@
+<svg id="battery" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 135.77 241.77">
+  <defs>
+    <style>
+      #battery .cls-1 {
+        fill: none;
+        stroke: #393277;
+        stroke-width: 4.48px;
+      }
+
+      #battery .cls-1,
+      #battery .cls-3 {
+        stroke-miterlimit: 10;
+      }
+
+      #battery .cls-2 {
+        fill: #ef7622;
+      }
+
+      #battery .cls-3 {
+        fill: #393277;
+        stroke: #fff;
+        stroke-width: 3px;
+      }
+
+      #battery .cls-4 {
+        fill: #f7f7f7;
+      }
+    </style>
+  </defs>
+  <title>battery</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_1-2" data-name="Layer 1">
+      <g>
+        <path class="cls-1" d="M112.56,23.24h-7V11.63a9.39,9.39,0,0,0-9.39-9.39H39.6a9.39,9.39,0,0,0-9.39,9.39V23.24h-7a21,21,0,0,0-21,21V218.57a21,21,0,0,0,21,21h89.36a21,21,0,0,0,21-21V44.21A21,21,0,0,0,112.56,23.24Z"/>
+        <path class="cls-2" d="M17.24,199.39H118.52a0,0,0,0,1,0,0V218a4.74,4.74,0,0,1-4.74,4.74H22A4.74,4.74,0,0,1,17.24,218v-18.6A0,0,0,0,1,17.24,199.39Z"/>
+        <rect class="cls-2" x="17.24" y="167.15" width="101.28" height="23.33"/>
+        <rect class="cls-2" x="17.24" y="134.92" width="101.28" height="23.33"/>
+        <rect class="cls-2" x="17.24" y="102.69" width="101.28" height="23.33"/>
+        <rect class="cls-2" x="17.24" y="70.45" width="101.28" height="23.33"/>
+        <path class="cls-2" d="M25.14,38.22h85.48a7.9,7.9,0,0,1,7.9,7.9V61.55a0,0,0,0,1,0,0H17.24a0,0,0,0,1,0,0V46.12A7.9,7.9,0,0,1,25.14,38.22Z"/>
+        <circle class="cls-3" cx="67.88" cy="134.92" r="38.03"/>
+        <polygon class="cls-4" points="72.32 107.32 54.54 136.55 68.69 136.55 61.62 159.57 81.22 128.12 66.31 128.66 72.32 107.32"/>
+      </g>
+    </g>
+  </g>
+</svg>

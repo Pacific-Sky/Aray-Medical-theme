@@ -1,0 +1,39 @@
+<svg id="excel__capacity" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 256.96 256.96">
+  <defs>
+    <style>
+      #excel__capacity .cls-1 {
+        fill: none;
+        stroke-miterlimit: 10;
+        stroke-width: 2.2px;
+        stroke: url(#New_Gradient_Swatch_3);
+      }
+
+      #excel__capacity .cls-2 {
+        font-size: 32.56px;
+        fill: #fff;
+      }
+
+      #excel__capacity .cls-2, .cls-3 {
+        font-family: 'sofia-pro', SofiaProBold, Sofia Pro;
+        font-weight: 700;
+      }
+
+      #excel__capacity .cls-3 {
+        font-size: 20.08px;
+        letter-spacing: 0.05em;
+      }
+    </style>
+    <linearGradient id="New_Gradient_Swatch_3" data-name="New Gradient Swatch 3" x1="51.69" y1="128.48" x2="194.59" y2="128.48" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ececec"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+  </defs>
+  <title>capacity</title>
+  <g class="weight">
+    <g transform="translate(7 -12)">
+      <path class="cls-1" d="M102.9,94.22a20.24,20.24,0,0,1,40.47,0v11.22H102.9Zm90.37,90.9L174,110.47a6.72,6.72,0,0,0-6.51-5H153.92V94.22a30.78,30.78,0,0,0-61.56,0v11.22H78.8a6.72,6.72,0,0,0-6.51,5L53,185.12a6.72,6.72,0,0,0,6.51,8.4H186.77A6.72,6.72,0,0,0,193.27,185.12Z"/>
+      <text class="cls-2" transform="translate(74.32 148.87)">480LB</text>
+      <text class="cls-3 svg-fill-orange" transform="translate(70.11 171.17)">CAPACITY</text>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,26 @@
+<svg id="panel-straight" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 2307 2760">
+  <defs>
+    <style>
+      #panel-straight .cls-1 {
+        fill: inherit;
+        fill-rule: evenodd;
+      }
+    </style>
+    <symbol id="panel-path">
+      <path class="cls-1" d="M38,16c-2,1.47-4.65,1.81-8,2-5.13,7.23-12.25,10.75-15,21V2711c1.26,5.08,3.77,10.33,5,16,5,1.79,6.94,6.58,11,9,2.73,1.63,10.29,2.37,13,3H201c15.29,3.28,36.87,1,54,1H362l324,1,1081,3c71.41.2,146.94,1,220,1h104c16.52,3.52,39.61,1,58,1,33.8,0,75.09,3.54,104-3l14-1c4-1.36,8-4.7,13-6l9-16c5.83-16.68,1.57-57.85-2-74v-91l1-414c0-490.16,4-980.74,4-1472l2-462V84c0-14.67,3.29-39.29-3-49-8.34-25.59-92.83-17-129-17H1756C1183.93,18,611.18,16,38,16Z"/>
+    </symbol>
+    <mask id="panel__mask">
+      <use xlink:href="#panel-path" fill="white" />
+    </mask>
+  </defs>
+  <image
+    class="lazyload"
+    mask="url(#panel__mask)"
+    data-responsive="page-drx/panel-straight.jpg"
+    xlink:href="ROOT_URL/wp-content/themes/aray_med/assets/img/page-drx/panel-straight.jpg"
+    x="0"
+    y="0"
+    width="2307"
+    height="2760"
+    />
+</svg>

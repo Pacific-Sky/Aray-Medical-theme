@@ -1,0 +1,184 @@
+<svg id="quality" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 252 252">
+  <defs>
+    <style>
+      #quality .cls-1,
+      #quality .cls-2,
+      #quality .cls-3 {
+        fill: none;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+
+      #quality .cls-1,
+      #quality .cls-3 {
+        stroke: #fff;
+      }
+    </style>
+  </defs>
+  <g transform="translate(-3 0)">
+    <rect class="cls-1 frame" x="70.66" y="68.93" width="116.1" height="116.1" rx="6.44" ry="6.44">
+      <animateTransform
+        attributeType="XML"
+        attributeName="transform"
+        type="translate"
+        from="-300 0"
+        to="0 0"
+        dur="500ms"
+        begin="indefinite"
+        fill="freeze"
+        class="qualityFrameSlideIn"
+      />
+      <animate
+        attributeType="CSS"
+        attributeName="opacity"
+        from="1"
+        to="0"
+        dur="2s"
+        begin="indefinite"
+        fill="freeze"
+        class="qualityFrameFadeOut"
+      />
+      <animateTransform
+        attributeType="XML"
+        attributeName="transform"
+        type="translate"
+        from="0 0"
+        to="-300 0"
+        dur="500ms"
+        begin="indefinite"
+        fill="freeze"
+        class="qualityFrameSlideBack"
+      />
+      <animate
+        attributeType="CSS"
+        attributeName="opacity"
+        from="0"
+        to="1"
+        dur="500ms"
+        begin="indefinite"
+        fill="freeze"
+        class="qualityFrameFadeIn"
+      />
+    </rect>
+    <rect class="cls-1 frame" x="70.66" y="68.93" width="116.1" height="116.1" rx="6.44" ry="6.44">
+      <animateTransform
+        attributeType="XML"
+        attributeName="transform"
+        type="translate"
+        from="-250 0"
+        to="0 0"
+        dur="500ms"
+        begin="indefinite"
+        fill="freeze"
+        class="qualityFrameSlideIn"
+      />
+      <animate
+        attributeType="CSS"
+        attributeName="opacity"
+        from="1"
+        to="0"
+        dur="2s"
+        begin="indefinite"
+        fill="freeze"
+        class="qualityFrameFadeOut"
+      />
+      <animateTransform
+        attributeType="XML"
+        attributeName="transform"
+        type="translate"
+        from="0 0"
+        to="-250 0"
+        dur="500ms"
+        begin="indefinite"
+        fill="freeze"
+        class="qualityFrameSlideBack"
+      />
+      <animate
+        attributeType="CSS"
+        attributeName="opacity"
+        from="0"
+        to="1"
+        dur="500ms"
+        begin="indefinite"
+        fill="freeze"
+        class="qualityFrameFadeIn"
+      />
+    </rect>
+    <rect class="cls-1 frame" x="70.66" y="68.93" width="116.1" height="116.1" rx="6.44" ry="6.44">
+      <animateTransform
+        attributeType="XML"
+        attributeName="transform"
+        type="translate"
+        from="-200 0"
+        to="0 0"
+        dur="500ms"
+        begin="indefinite"
+        fill="freeze"
+        class="qualityFrameSlideIn"
+      />
+      <animate
+        attributeType="CSS"
+        attributeName="opacity"
+        from="1"
+        to="0"
+        dur="2s"
+        begin="indefinite"
+        fill="freeze"
+        class="qualityFrameFadeOut"
+      />
+      <animateTransform
+        attributeType="XML"
+        attributeName="transform"
+        type="translate"
+        from="0 0"
+        to="-200 0"
+        dur="500ms"
+        begin="indefinite"
+        fill="freeze"
+        class="qualityFrameSlideBack"
+      />
+      <animate
+        attributeType="CSS"
+        attributeName="opacity"
+        from="0"
+        to="1"
+        dur="500ms"
+        begin="indefinite"
+        fill="freeze"
+        class="qualityFrameFadeIn"
+      />
+    </rect>
+  </g>
+  <polyline transform="translate(-3 0)" id="checkmark" class="cls-2 svg-stroke-orange" points="111.1 128.07 122.34 139.31 146.62 115.02">
+    <animate
+      id="qualityMarkCheck"
+      attributeType="CSS"
+      attributeName="stroke-dashoffset"
+      from="100"
+      to="0"
+      dur="250ms"
+      begin="indefinite"
+      fill="freeze"
+    />
+  </polyline>
+  <polygon transform="translate(-3 0)" id="burst" class="cls-3" points="97.29 155.66 98.62 145.64 89.1 142.27 93.95 133.42 86.29 126.83 94.02 120.33 89.26 111.43 98.81 108.16 97.59 98.13 107.68 98.53 110.16 88.74 119.42 92.76 125.27 84.53 132.46 91.62 140.89 86.05 145.03 95.27 154.89 93.12 155.43 103.21 165.4 104.77 162.26 114.37 171 119.43 164.59 127.24 170.91 135.12 162.12 140.09 165.17 149.72 155.18 151.18 154.54 161.26 144.69 159.01 140.46 168.18 132.09 162.53 124.83 169.55 119.06 161.25 109.76 165.18 107.38 155.36 97.29 155.66">
+    <animate
+      id="qualityBurstDazzle"
+      attributeType="CSS"
+      attributeName="stroke-dasharray"
+      from="350"
+      to="0"
+      dur="1s"
+      begin="indefinite"
+      fill="freeze"
+    />
+  </polygon>
+  <g transform="translate(-3 0)">
+    <line class="cls-3" x1="128.71" y1="185.45" x2="128.71" y2="216.25"/>
+    <polyline class="cls-3" points="118.9 207.18 128.71 216.99 138.53 207.18"/>
+  </g>
+  <g transform="translate(-3 0)">
+    <line class="cls-3" x1="128.71" y1="68.62" x2="128.71" y2="37.82"/>
+    <polyline class="cls-3" points="138.53 46.9 128.71 37.08 118.9 46.9"/>
+  </g>
+</svg>

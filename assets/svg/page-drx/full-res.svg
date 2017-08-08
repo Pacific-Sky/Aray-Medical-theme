@@ -1,0 +1,77 @@
+<svg id="full-res" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 88.06 75.07">
+  <defs>
+    <style>
+      #full-res .cls-1,
+      #full-res .cls-2,
+      #full-res .cls-3,
+      #full-res .cls-6,
+      #full-res .cls-7 {
+        fill: none;
+        stroke-miterlimit: 10;
+      }
+
+      #full-res .cls-1,
+      #full-res .cls-2,
+      #full-res .cls-3 {
+        stroke-width: 2.2px;
+      }
+
+      #full-res .cls-1 {
+        stroke: url(#New_Gradient_Swatch_4);
+      }
+
+      #full-res .cls-2 {
+        stroke: url(#New_Gradient_Swatch_4-2);
+      }
+
+      #full-res .cls-3 {
+        stroke: url(#New_Gradient_Swatch_4-3);
+      }
+
+      #full-res .cls-4 {
+        fill: url(#New_Gradient_Swatch_4-4);
+      }
+
+      #full-res .cls-5 {
+        fill: url(#full-res-linear-gradient);
+      }
+
+      #full-res .cls-6,
+      #full-res .cls-7 {
+        stroke: #fff;
+        stroke-linecap: round;
+      }
+
+      #full-res .cls-6 {
+        stroke-width: 3.5px;
+      }
+
+      #full-res .cls-7 {
+        stroke-width: 2px;
+      }
+    </style>
+    <linearGradient id="New_Gradient_Swatch_4" data-name="New Gradient Swatch 4" y1="28.1" x2="88.06" y2="28.1" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#e7e7e7"/>
+    </linearGradient>
+    <linearGradient id="New_Gradient_Swatch_4-2" x1="51.1" y1="64.21" x2="56.2" y2="64.21" xlink:href="#New_Gradient_Swatch_4"/>
+    <linearGradient id="New_Gradient_Swatch_4-3" x1="38.88" y1="64.21" x2="43.98" y2="64.21" gradientTransform="matrix(-1, 0, 0, 1, 75.83, 0)" xlink:href="#New_Gradient_Swatch_4"/>
+    <linearGradient id="New_Gradient_Swatch_4-4" x1="26.17" y1="73" x2="61.88" y2="73" xlink:href="#New_Gradient_Swatch_4"/>
+    <linearGradient id="full-res-linear-gradient" x1="62.85" y1="9.93" x2="62.85" y2="37.4" gradientUnits="userSpaceOnUse">
+      <stop offset="0.04" stop-color="#ef7622" stop-opacity="0"/>
+      <stop offset="1" stop-color="#ef7622"/>
+    </linearGradient>
+  </defs>
+  <title>full-res</title>
+  <g transform="scale(0.75) translate(16 16)">
+    <rect class="cls-1" x="1.1" y="1.1" width="85.86" height="54" rx="3.82" ry="3.82"/>
+    <g>
+      <path class="cls-2" d="M53.8,55.54c-2.64,6.22-1.92,12.26,1.49,17.15"/>
+      <path class="cls-3" d="M34.25,55.54c2.64,6.22,1.92,12.26-1.49,17.15"/>
+    </g>
+    <path class="cls-4" d="M28.18,70.93H59.88a2,2,0,0,1,2,2v2.13a0,0,0,0,1,0,0H26.17a0,0,0,0,1,0,0V72.94A2,2,0,0,1,28.18,70.93Z"/>
+    <path class="cls-5" d="M58,9.35S80.7,18.67,70.19,40L52.74,31.63S67.22,24.79,58,9.35Z"/>
+    <line class="cls-6" x1="44.03" y1="9.35" x2="44.03" y2="28.1"/>
+    <line class="cls-7" x1="70.19" y1="40.51" x2="44.03" y2="28.1"/>
+  </g>
+</svg>

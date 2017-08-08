@@ -1,0 +1,16 @@
+<svg id="ankle" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="-4 0 78.46 98.66">
+  <defs>
+    <style>
+      #ankle path {
+        fill: none;
+        stroke-linecap: round;
+        stroke-miterlimit: 10;
+        stroke-width: 2.5px;
+        stroke: white;
+      }
+    </style>
+  </defs>
+  <title>ankle</title>
+  <path d="M65.15,95.13c-7.47,0-15.55-2.24-36.77,1.54C13.3,99.36,3.79,94.33,1.57,87.43s7.65-17.62,10-33.59A81,81,0,0,0,7.63,15.5l-2.31-4S9.08,1.89,22.53,1.35s16.35,1,20.69,5.59c0,0-5.08,54-3.5,57.52,5.46,12.13,27.93,12,37.48,12,0,0,.36,1.33-3.43,8.38A30.09,30.09,0,0,1,65.15,95.13Z"/>
+  <path d="M16,76.87s-.82,7.35,7.83,8.37"/>
+</svg>

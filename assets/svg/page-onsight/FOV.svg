@@ -1,0 +1,58 @@
+<svg id="fov" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 107.59 221.04">
+  <defs>
+    <style>
+      #fov .cls-1,
+      #fov .cls-3,
+      #fov .cls-7 {
+        fill: none;
+        stroke-miterlimit: 10;
+      }
+
+      #fov .cls-1 {
+        stroke-width: 6px;
+      }
+
+      #fov .cls-3 {
+        stroke-dasharray: 3.79 7.57;
+        stroke-width: 4px;
+      }
+      #fov .cls-7 {
+        stroke-width: 5.13px;
+      }
+
+      #fov .cls-7 {
+        stroke-dasharray: 4.87 9.73;
+      }
+    </style>
+  </defs>
+  <title>FOV</title>
+  <g>
+    <polyline class="cls-1 svg-stroke-orange" points="69.02 89.5 52.53 73.01 36.05 89.5"/>
+    <polyline class="cls-1 svg-stroke-orange" points="36.05 126.79 52.53 143.27 69.02 126.79"/>
+    <line class="cls-1 svg-stroke-orange" x1="52.53" y1="140.19" x2="52.53" y2="73.01"/>
+  </g>
+  <g>
+    <polyline class="cls-3 svg-stroke-purple" points="2.56 186.8 2.56 188.8 4.56 188.8"/>
+    <line class="cls-3 svg-stroke-purple" x1="12.14" y1="188.8" x2="99.24" y2="188.8"/>
+    <polyline class="cls-3 svg-stroke-purple" points="103.02 188.8 105.02 188.8 105.02 186.8"/>
+    <line class="cls-3 svg-stroke-purple" x1="105.02" y1="178.88" x2="105.02" y2="40.27"/>
+    <polyline class="cls-3 svg-stroke-purple" points="105.02 36.31 105.02 34.31 103.02 34.31"/>
+    <line class="cls-3 svg-stroke-purple" x1="95.45" y1="34.31" x2="8.35" y2="34.31"/>
+    <polyline class="cls-3 svg-stroke-purple" points="4.56 34.31 2.56 34.31 2.56 36.31"/>
+    <line class="cls-3 svg-stroke-purple" x1="2.56" y1="44.23" x2="2.56" y2="182.84"/>
+  </g>
+  <g>
+    <line class="cls-7 svg-stroke-orange" x1="105.02" y1="20.41" x2="105.02" y2="10.22"/>
+    <polyline class="cls-7 svg-stroke-orange" points="105.02 5.13 105.02 2.56 102.46 2.56"/>
+    <line class="cls-7 svg-stroke-orange" x1="92.73" y1="2.56" x2="9.99" y2="2.56"/>
+    <polyline class="cls-7 svg-stroke-orange" points="5.13 2.56 2.56 2.56 2.56 5.13"/>
+    <line class="cls-7 svg-stroke-orange" x1="2.56" y1="14.71" x2="2.56" y2="24.3"/>
+  </g>
+  <g>
+    <line class="cls-7 svg-stroke-orange" x1="2.56" y1="200.63" x2="2.56" y2="210.82"/>
+    <polyline class="cls-7 svg-stroke-orange" points="2.56 215.92 2.56 218.48 5.13 218.48"/>
+    <line class="cls-7 svg-stroke-orange" x1="14.86" y1="218.48" x2="97.59" y2="218.48"/>
+    <polyline class="cls-7 svg-stroke-orange" points="102.46 218.48 105.02 218.48 105.02 215.92"/>
+    <line class="cls-7 svg-stroke-orange" x1="105.02" y1="206.33" x2="105.02" y2="196.74"/>
+  </g>
+</svg>

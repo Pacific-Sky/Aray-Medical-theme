@@ -1,0 +1,106 @@
+<svg id="calibration" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 129.1 132.16">
+  <defs>
+    <style>
+      #calibration .cls-1,
+      #calibration .cls-2,
+      #calibration .cls-3,
+      #calibration .cls-6,
+      #calibration .cls-9 {
+        fill: none;
+      }
+
+      #calibration .cls-2,
+      #calibration .cls-3,
+      #calibration .cls-6,
+      #calibration .cls-7,
+      #calibration .cls-9 {
+        stroke-miterlimit: 10;
+      }
+
+      #calibration .cls-2 {
+        stroke-width: 2.23px;
+        stroke: url(#New_Gradient_Swatch_4);
+      }
+
+      #calibration .cls-3,
+      #calibration .cls-9 {
+        stroke-width: 6px;
+      }
+
+      #calibration .cls-3 {
+        stroke-dasharray: 1 12;
+        stroke: url(#New_Gradient_Swatch_4-2);
+      }
+
+      #calibration .cls-4 {
+        clip-path: url(#calibration-clip-path);
+      }
+
+      #calibration .cls-5 {
+        fill: #fff;
+      }
+
+      #calibration .cls-6 {
+        stroke: #c3c6c8;
+      }
+
+      #calibration .cls-7 {
+        fill: #393277;
+        stroke: #ef7622;
+        stroke-width: 2.2px;
+      }
+
+      #calibration .cls-8 {
+        fill: #ef7622;
+      }
+
+      #calibration .cls-9 {
+        stroke: #fff;
+        stroke-linecap: round;
+      }
+    </style>
+    <linearGradient id="New_Gradient_Swatch_4" data-name="New Gradient Swatch 4" y1="64.55" x2="129.1" y2="64.55" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#e7e7e7"/>
+    </linearGradient>
+    <linearGradient id="New_Gradient_Swatch_4-2" x1="7.66" y1="64.55" x2="121.44" y2="64.55" xlink:href="#New_Gradient_Swatch_4"/>
+    <clipPath id="calibration-clip-path">
+      <circle class="cls-1" cx="64.55" cy="64.55" r="62.37"/>
+    </clipPath>
+  </defs>
+  <title>calibration</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_1-2" data-name="Layer 1" transform="scale(0.9) translate(8 9)">
+      <circle class="cls-2" cx="64.55" cy="64.55" r="63.44"/>
+      <circle class="cls-3" cx="64.55" cy="64.55" r="53.89"/>
+      <g class="cls-4">
+        <g>
+          <polygon class="cls-5" points="29.39 132.16 47.69 132.16 47.69 35.66 29.39 35.66 29.39 40.99 29.39 132.16"/>
+          <g>
+            <line class="cls-6" x1="35.95" y1="124" x2="29.36" y2="124"/>
+            <line class="cls-6" x1="41.71" y1="127.49" x2="29.39" y2="127.49"/>
+          </g>
+          <g>
+            <line class="cls-6" x1="41.34" y1="110.29" x2="29.39" y2="110.29"/>
+            <line class="cls-6" x1="41.48" y1="117.36" x2="29.4" y2="117.36"/>
+            <line class="cls-6" x1="35.95" y1="113.77" x2="29.39" y2="113.77"/>
+            <line class="cls-6" x1="35.95" y1="106.91" x2="29.39" y2="106.91"/>
+          </g>
+          <g>
+            <line class="cls-6" x1="41.34" y1="96.33" x2="29.38" y2="96.33"/>
+            <line class="cls-6" x1="41.34" y1="89.5" x2="29.38" y2="89.5"/>
+            <line class="cls-6" x1="41.34" y1="40.5" x2="29.38" y2="40.5"/>
+            <line class="cls-6" x1="41.48" y1="103.4" x2="29.39" y2="103.4"/>
+            <line class="cls-6" x1="35.95" y1="99.81" x2="29.39" y2="99.81"/>
+            <line class="cls-6" x1="35.95" y1="92.95" x2="29.39" y2="92.95"/>
+          </g>
+          <polygon class="cls-5" points="75.82 58.12 39.3 58.12 39.3 47.44 67.95 47.44 75.82 58.12"/>
+          <polygon class="cls-5" points="75.82 71.03 39.3 71.03 39.3 81.71 67.95 81.71 75.82 71.03"/>
+          <rect class="cls-7" x="27.04" y="44.1" width="23.04" height="41.59" rx="2.48" ry="2.48"/>
+        </g>
+      </g>
+      <circle class="cls-8" cx="64.55" cy="64.55" r="6.39" transform="translate(-18.25 103) rotate(-69.91)"/>
+      <path class="cls-9" d="M64.55,64.55"/>
+    </g>
+  </g>
+</svg>

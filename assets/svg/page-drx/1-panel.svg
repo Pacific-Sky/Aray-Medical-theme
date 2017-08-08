@@ -1,0 +1,41 @@
+<svg id="one-panel" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 590.72 147.14">
+  <defs>
+    <style>
+      #one-panel .cls-1 {
+        font-size: 78.38px;
+        fill: #ef7622;
+        font-family: 'sofia-pro', SofiaProLight, Sofia Pro;
+      }
+
+      #one-panel .cls-2 {
+        font-size: 28.22px;
+        fill: #2a275b;
+        font-family: 'sofia-pro', SofiaProSemiBold, Sofia Pro;
+        font-weight: 800;
+      }
+
+      #one-panel .cls-3,
+      #one-panel .cls-4 {
+        fill: none;
+        stroke: #ef7622;
+        stroke-miterlimit: 10;
+        stroke-width: 2.2px;
+      }
+
+      #one-panel .cls-4 {
+        stroke-linecap: round;
+      }
+    </style>
+  </defs>
+  <title>1-panel</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Guides">
+      <g>
+        <text class="cls-1" transform="translate(47.36 100.75)">1 PANEL</text>
+        <text class="cls-2" transform="translate(377.33 65.47)">FOR ALL <tspan x="0" y="33.86">EQUIPMENT</tspan></text>
+        <rect class="cls-3" x="1.1" y="1.1" width="588.52" height="144.94" rx="12.93" ry="12.93"/>
+        <line class="cls-4" x1="349.73" y1="37.91" x2="349.73" y2="107.52"/>
+      </g>
+    </g>
+  </g>
+</svg>

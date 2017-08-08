@@ -1,0 +1,10 @@
+<svg id="arrow" version="1.1" preserveAspectRatio="xMaxYMid" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="133.2px" height="24.2px" viewBox="0 0 133.2 24.2" style="enable-background:new 0 0 133.2 24.2;" xml:space="preserve">
+	<style type="text/css">
+		#arrow .st0{fill:none;stroke:#EF7622;stroke-width:2.2;stroke-miterlimit:10;}
+		#arrow .st1{fill:#EF7622;}
+	</style>
+	<defs>
+	</defs>
+	<line class="st0" x1="0" y1="12.1" x2="132.4" y2="12.1"/>
+	<path class="st1" d="M132.7,11L118.9,0.3c-0.9-0.7-2.1-0.1-2.1,1v21.5c0,1.1,1.3,1.7,2.1,1l13.8-10.8 C133.4,12.6,133.4,11.6,132.7,11z"/>
+</svg>

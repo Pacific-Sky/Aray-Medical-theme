@@ -1,0 +1,47 @@
+<svg id="excel__length" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 256.96 256.96">
+  <defs>
+    <style>
+      #excel__length .cls-1,
+      #excel__length .cls-2 {
+        fill: none;
+        stroke-linecap: round;
+        stroke-miterlimit: 10;
+        stroke-width: 2.08px;
+      }
+
+      #excel__length .cls-1 {
+        stroke: url(#New_Gradient_Swatch_3);
+      }
+
+      #excel__length .cls-3 {
+        font-size: 32.56px;
+        fill: #fff;
+        font-family: 'sofia-pro', SofiaProBold, Sofia Pro;
+        font-weight: 700;
+      }
+
+    </style>
+    <linearGradient id="New_Gradient_Swatch_3" data-name="New Gradient Swatch 3" x1="46.45" y1="151.88" x2="210.51" y2="151.88" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ececec"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <clipPath id="length-arrow-mask">
+      <rect height="256" width="128" />
+    </clipPath>
+    <clipPath id="length-text-mask">
+      <rect width="256" height="141"/>
+    </clipPath>
+    <symbol id="length-arrow">
+      <g class="arrow" style="clip-path: url(#length-arrow-mask)">
+        <line class="cls-2 svg-stroke-orange" x1="47.51" y1="115.54" x2="86.55" y2="115.54"/>
+        <polyline class="cls-2 svg-stroke-orange" points="58.23 103.88 47.1 115.02 58.23 126.15"/>
+      </g>
+    </symbol>
+  </defs>
+  <path class="cls-1" d="M47.49,142h162a0,0,0,0,1,0,0v0a19.86,19.86,0,0,1-19.86,19.86H67.36A19.86,19.86,0,0,1,47.49,142v0A0,0,0,0,1,47.49,142Z"/>
+  <use xlink:href="#length-arrow"/>
+  <use xlink:href="#length-arrow" transform="scale(-1 1) translate(-256 0)"/>
+  <g style="clip-path: url(#length-text-mask)">
+    <text class="cls-3" x="130.18" y="126.45" text-anchor="middle">79"</text>
+  </g>
+</svg>

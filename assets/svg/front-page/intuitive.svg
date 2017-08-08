@@ -1,0 +1,32 @@
+<svg version="1.1" id="icon__intuitive" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 195.9 200.1" style="enable-background:new 0 0 195.9 200.1;" xml:space="preserve">
+<style type="text/css">
+	#icon__intuitive .st0{fill:#2A275B;stroke:#FFFFFF;stroke-width:3;stroke-linecap:round;stroke-miterlimit:10;}
+	#icon__intuitive .st1{fill:none;stroke:#FFFFFF;stroke-width:7.3136;stroke-linecap:round;stroke-miterlimit:10;}
+	#icon__intuitive .st2{fill:none;stroke:#FFFFFF;stroke-width:3;stroke-linecap:round;stroke-miterlimit:10;}
+	#icon__intuitive .st3{fill:none;stroke:#EF7622;stroke-width:3;stroke-linecap:round;stroke-miterlimit:10;}
+	#icon__intuitive .st4{fill:none;stroke:#FFFFFF;stroke-width:2;stroke-linecap:round;stroke-miterlimit:10;}
+	#icon__intuitive .st5{fill:#FFFFFF;}
+	#icon__intuitive .st6{fill:#EF7622;}
+</style>
+<circle class="st0" cx="97.8" cy="99.8" r="96.4"/>
+<path class="st1" d="M58.6,136"/>
+<path class="st1" d="M136.1,61.7"/>
+<path class="st2" d="M143.1,138.2H52.6c-5.2,0-9.4-4.2-9.4-9.4V70.9c0-5.2,4.2-9.4,9.4-9.4h90.5c5.2,0,9.4,4.2,9.4,9.4v57.8
+	C152.5,134,148.3,138.2,143.1,138.2z"/>
+<rect x="56.7" y="74.2" class="st3" width="28.5" height="8.5"/>
+<rect x="56.7" y="89.7" class="st3" width="28.5" height="8.5"/>
+<rect x="56.7" y="105.2" class="st3" width="28.5" height="8.5"/>
+<circle class="st3" cx="128.3" cy="115.9" r="12.5"/>
+<path class="st4" d="M120.2,82.4h16.5c2.2,0,4-1.8,4-4v0c0-2.2-1.8-4-4-4h-16.5c-2.2,0-4,1.8-4,4v0C116.2,80.6,118,82.4,120.2,82.4z
+	"/>
+<path class="st4" d="M120.2,95.1h16.5c2.2,0,4-1.8,4-4v0c0-2.2-1.8-4-4-4h-16.5c-2.2,0-4,1.8-4,4v0C116.2,93.4,118,95.1,120.2,95.1z
+	"/>
+<rect x="103.7" y="73.2" class="st5" width="3.2" height="22.2"/>
+<rect x="96.9" y="73.2" class="st5" width="3.2" height="22.2"/>
+<rect x="96.7" y="101.2" class="st6" width="10.4" height="2.8"/>
+<rect x="96.7" y="108.6" class="st6" width="10.4" height="2.8"/>
+<rect x="55.5" y="124" class="st5" width="10.4" height="2.8"/>
+<rect x="71" y="124" class="st5" width="10.4" height="2.8"/>
+<rect x="86.5" y="124" class="st5" width="10.4" height="2.8"/>
+</svg>

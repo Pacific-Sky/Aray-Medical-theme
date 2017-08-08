@@ -1,0 +1,38 @@
+<svg id="callout-3d" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 225.86 239.99">
+  <defs>
+    <style>
+      #callout-3d .cls-2 {
+        clip-path: url(#callout-clip-path);
+      }
+
+      #callout-3d .cls-3 {
+        fill: black;
+        opacity: 0.3;
+      }
+
+      #callout-3d .cls-4 {
+        font-size: 19.37px;
+        font-family: 'sofia-pro', SofiaProBold, Sofia Pro;
+        font-weight: 700;
+      }
+
+      #callout-3d .cls-4,
+      #callout-3d .cls-5 {
+        fill: #fff;
+      }
+    </style>
+    <clipPath id="callout-clip-path">
+      <circle class="cls-1" cx="112.42" cy="117.84" r="108.1"/>
+    </clipPath>
+  </defs>
+  <g>
+    <circle class="cls-1 svg-fill-orange" cx="112.42" cy="117.84" r="108.1"/>
+    <g class="cls-2">
+      <text class="cls-4" transform="translate(63.09 62.38)">POWERFUL </text>
+      <text class="cls-4" transform="translate(43.65 178.33)">CBCT IMAGING</text>
+      <polyline class="cls-3" points="52.62 85.74 96.04 81.24 121.1 105.57 130.27 75.07 173.77 81.24 291.44 194.74 194.6 285.57 53.59 147.67 61.78 129.73 77.27 148.4 88.1 141.57 66.67 120.57 76.94 109.24 52.62 85.02"/>
+      <path id="D" class="cls-5" d="M66.67,120.57v-15h8.18c8.18,0,8.43-7.45,8.43-8.92A8.28,8.28,0,0,0,75,89.42c-2,0-6-.12-10.87,5L52.62,85c4.89-7.57,14.54-12.46,25.65-11.85,14.29.73,24.67,11,24.31,22.6,0,6.84-4.64,12.34-10.5,15.51,8.92,3.3,14,10.63,14,19.3,0,16.25-14.78,24.92-30.9,24.92-11.6,0-21.5-5.5-25.89-14.78l12.46-11a14.83,14.83,0,0,0,13.44,8.79c8.18,0,11.6-4.52,11.6-9.16,0-4.4-3.54-8.79-12-8.79Z"/>
+      <path id="_3" data-name="3" class="cls-5" d="M113.66,70.37H147c24.31,0,38.23,18.32,38.23,42.26s-13.92,41.9-38.23,41.9H113.66Zm20.52,66H147c11.85,0,17.83-11.36,17.83-23.7s-6-24.06-17.83-24.06H134.18Z"/>
+    </g>
+  </g>
+</svg>

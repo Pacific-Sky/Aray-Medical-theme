@@ -1,0 +1,29 @@
+<svg id="boot" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 88.51 124.7">
+  <defs>
+    <style>
+      #boot .cls-1,
+      #boot .cls-2 {
+        fill: none;
+        stroke-miterlimit: 10;
+        stroke-width: 2.3px;
+      }
+
+      #boot .cls-1 {
+        stroke: #fff;
+      }
+
+      #boot .cls-2 {
+        stroke: #ef7622;
+        stroke-linecap: round;
+      }
+    </style>
+  </defs>
+  <title>boot</title>
+  <g transform="scale(0.85) translate(7 9)">
+    <path class="cls-1" d="M64.42,42.34,53,54l-.15.46a27.38,27.38,0,1,1-28.48,7.19C35.47,51,50.22,36.75,59.91,27.45L66,33.59a1.78,1.78,0,0,0,3-.95l5.18-29.4a1.78,1.78,0,0,0-2.06-2.06L42.78,6.36a1.78,1.78,0,0,0-.95,3l6.94,6.94-12.45,12L15.61,48.24a43.09,43.09,0,1,0,48.8-5.9Z"/>
+    <g>
+      <path class="cls-2" d="M49.73,72.43a9.53,9.53,0,1,1-11.48.39"/>
+      <line class="cls-2" x1="44.25" y1="66.44" x2="44.25" y2="78.21"/>
+    </g>
+  </g>
+</svg>

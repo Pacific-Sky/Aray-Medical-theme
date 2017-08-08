@@ -1,0 +1,31 @@
+<svg id="weight-bearing" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 170.96 170.96">
+  <defs>
+    <style>
+      #weight-bearing .cls-1,
+      #weight-bearing .cls-2 {
+        fill: none;
+        stroke-miterlimit: 10;
+        stroke-width: 2.2px;
+        stroke: white;
+      }
+
+      #weight-bearing circle {
+        fill: white;
+      }
+    </style>
+  </defs>
+  <title>weight-bearing</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_1-2" data-name="Layer 1">
+      <circle class="cls-1" cx="85.48" cy="85.48" r="84.38"/>
+      <path class="cls-2" d="M45.31,122.2h80.33a7,7,0,0,0,6.7-9l-14.84-50.3a11.49,11.49,0,0,0-11-8.24h-42a11.49,11.49,0,0,0-11,8.24l-14.84,50.3A7,7,0,0,0,45.31,122.2Z"/>
+      <rect class="cls-2" x="64.42" y="74.72" width="42.12" height="12.29" rx="1.82" ry="1.82"/>
+      <circle class="cls-3" cx="58.56" cy="106.13" r="5.37"/>
+      <circle class="cls-3" cx="75.55" cy="106.13" r="5.37"/>
+      <circle class="cls-3" cx="92.54" cy="106.13" r="5.37"/>
+      <circle class="cls-3" cx="109.53" cy="106.13" r="5.37"/>
+      <rect class="cls-2" x="78.12" y="45.05" width="14.42" height="9.51"/>
+      <rect class="cls-2" x="53.36" y="32.91" width="63.93" height="11.71"/>
+    </g>
+  </g>
+</svg>

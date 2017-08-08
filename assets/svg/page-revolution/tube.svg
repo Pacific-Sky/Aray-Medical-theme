@@ -1,0 +1,62 @@
+<svg id="tube" preserveAspectRatio="xMidYMax" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 2854 3361">
+  <defs>
+    <style>
+      #tube .cls-1 {
+        fill: none;
+      }
+
+      #tube .cls-2 {
+        clip-path: url(#tube-body-clip);
+      }
+
+      #tube .cls-3 {
+				clip-path: url(#tube-head-clip);
+      }
+
+			#tube #tube-head {
+			}
+    </style>
+    <clipPath id="tube-body-clip">
+      <polygon class="cls-1" points="0 431 2854 448 2854 4121 0 4121 0 431"/>
+    </clipPath>
+    <clipPath id="tube-head-clip">
+      <polygon class="cls-1" transform="translate(0 20)" points="2122 433 2106 433 2106 430 2079 429 2066 -637 2485 -637 2484 429 2481 431 2465 432 2464 1953 2124 1953 2122 433"/>
+    </clipPath>
+		<linearGradient id="tube-head-gradient" gradientTransform="rotate(90)">
+			<stop offset="0" stop-color="white" stop-opacity="1" />
+      <stop offset="1" stop-color="white" stop-opacity="0" />
+		</linearGradient>
+		<mask id="tube-head-mask">
+			<polygon fill="white" points="2122 433 2106 433 2106 430 2079 429 2066 -637 2485 -637 2484 429 2481 431 2465 432 2464 953 2124 953 2122 433"/>
+			<rect fill="url(#tube-head-gradient)" x="0" width="4000" height="50" y="950"></rect>
+		</mask>
+    <filter id="blur-filter" x="0" y="0">
+      <feGaussianBlur id="blur-filter-effect" in="SourceGraphic" stdDeviation="0" color-interpolation-filters="sRGB" />
+    </filter>
+  </defs>
+  <g filter="url(#blur-filter)">
+    <g class="cls-2">
+      <image
+        class="lazyload"
+        width="2854"
+        height="3361"
+        data-responsive="page-revolution/body.png"
+        xlink:href="ROOT_URL/wp-content/themes/aray_med/assets/img/page-revolution/body.png"
+      />
+    </g>
+    <g class="cls-3">
+      <image id="tube-arm" width="408" height="1200" x="2100" y="200" xlink:href="ROOT_URL/wp-content/themes/aray_med/assets/img/page-revolution/arm.png"/>
+    </g>
+  </g>
+  <g id="tube-head">
+    <image
+      class="lazyload"
+      width="1300"
+      height="1500"
+      x="1633"
+      y="-930"
+      data-responsive="page-revolution/image.png"
+      xlink:href="ROOT_URL/wp-content/themes/aray_med/assets/img/page-revolution/image.png"
+    />
+  </g>
+</svg>

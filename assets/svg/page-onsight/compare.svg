@@ -1,0 +1,16 @@
+<svg id="compare" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 78.75 37.21">
+  <defs>
+    <style>
+      #compare polyline,
+      #compare line {
+        fill: none;
+        stroke-miterlimit: 10;
+        stroke-width: 6px;
+      }
+    </style>
+  </defs>
+  <title>compare</title>
+  <polyline class="svg-stroke-orange" points="58.02 35.09 74.5 18.61 58.02 2.12"/>
+  <polyline class="svg-stroke-orange" points="20.73 2.12 4.24 18.61 20.73 35.09"/>
+  <line class="svg-stroke-orange" x1="7.33" y1="18.61" x2="74.51" y2="18.61"/>
+</svg>

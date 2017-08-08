@@ -1,0 +1,41 @@
+<svg id="toggle" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 46.62 123.51">
+  <defs>
+    <style>
+      #toggle .cls-1 {
+        isolation: isolate;
+      }
+
+      #toggle .cls-2 {
+        fill: #393277;
+      }
+
+      #toggle .cls-3 {
+        fill: #171633;
+        opacity: 0.63;
+        mix-blend-mode: multiply;
+      }
+
+      #toggle .cls-4 {
+        fill: #ef7622;
+      }
+
+      #toggle .cls-5 {
+        opacity: 0.54;
+        fill: url(#linear-gradient);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="10.59" y1="24.31" x2="36.04" y2="24.31" gradientUnits="userSpaceOnUse">
+      <stop offset="0.01" stop-color="#cb5f15"/>
+      <stop offset="1" stop-color="#904109"/>
+    </linearGradient>
+  </defs>
+  <title>toggle</title>
+  <g class="cls-1">
+    <path class="cls-2" d="M41.81,61.75a45.25,45.25,0,0,1,.65-8.29C43.77,46,46.62,34,46.62,23.31A23.31,23.31,0,1,0,0,23.31C0,34,2.85,46,4.17,53.46a45.25,45.25,0,0,1,.65,8.29A45.26,45.26,0,0,1,4.17,70C2.85,77.54,0,89.46,0,100.2a23.31,23.31,0,1,0,46.62,0c0-10.74-2.85-22.66-4.17-30.15A45.26,45.26,0,0,1,41.81,61.75Z"/>
+    <path class="cls-3" d="M5,100.2C5,89.46,7.85,77.54,9.17,70a45.22,45.22,0,0,0,.65-8.29,45.21,45.21,0,0,0-.65-8.29C7.85,46,5,34,5,23.31A23.31,23.31,0,0,1,25.81.14,23.3,23.3,0,0,0,0,23.31C0,34,2.85,46,4.17,53.46a45.21,45.21,0,0,1,.65,8.29A45.22,45.22,0,0,1,4.17,70C2.85,77.54,0,89.46,0,100.2a23.31,23.31,0,0,0,23.31,23.31,23.75,23.75,0,0,0,2.5-.13A23.31,23.31,0,0,1,5,100.2Z"/>
+    <g class="switch">
+      <circle class="cls-4" cx="23.31" cy="24.31" r="17.99"/>
+      <circle class="cls-5" cx="23.31" cy="24.31" r="12.72"/>
+    </g>
+  </g>
+</svg>
